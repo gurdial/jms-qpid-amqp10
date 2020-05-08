@@ -1,0 +1,1 @@
+# jms-qpid-amqp10
