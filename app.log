@@ -1,0 +1,356 @@
+2020-05-08 13:36:08,579 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 13424 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 13:36:08,632 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 13:36:08,634 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 13:38:56,787 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 19272 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 13:38:56,791 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 13:38:56,792 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 13:40:13,782 INFO com.test.jmsqpid.JmsQpidApplicationTests [main] Starting JmsQpidApplicationTests on DESKTOP-O99CPL8 with PID 19212 (started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 13:40:13,783 DEBUG com.test.jmsqpid.JmsQpidApplicationTests [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 13:40:13,783 INFO com.test.jmsqpid.JmsQpidApplicationTests [main] No active profile set, falling back to default profiles: default
+2020-05-08 13:40:16,110 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 13:40:16,143 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:4a194402-7399-4b08-83f6-a64c3e9dced1:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 13:40:16,234 INFO com.test.jmsqpid.JmsQpidApplicationTests [main] Started JmsQpidApplicationTests in 2.701 seconds (JVM running for 3.559)
+2020-05-08 13:40:33,281 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 19084 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 13:40:33,286 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 13:40:33,287 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 13:40:36,208 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 13:40:36,239 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:15bdd8e7-0490-42ce-b4c6-e7fb3f3e8a8c:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 13:40:36,361 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 3.738 seconds (JVM running for 4.435)
+2020-05-08 13:45:18,631 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 13816 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 13:45:18,633 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 13:45:18,635 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 13:45:20,668 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 13:45:20,697 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:37225a75-b672-4da7-9cff-0d25a9c09905:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 13:45:20,802 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.599 seconds (JVM running for 3.048)
+2020-05-08 13:45:53,730 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 5148 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 13:45:53,733 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 13:45:53,733 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 13:45:55,743 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 13:45:55,769 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:ba6194b8-03ca-444b-bd77-e8ea5853731c:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 13:45:55,867 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.579 seconds (JVM running for 3.028)
+2020-05-08 13:47:21,587 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 1108 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 13:47:21,590 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 13:47:21,590 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 13:47:23,595 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 13:47:23,623 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:fb0df5fb-9ff2-4894-88d7-5b5fc56ba95a:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 13:47:23,722 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.578 seconds (JVM running for 3.015)
+2020-05-08 14:07:25,363 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 15960 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 14:07:25,366 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 14:07:25,366 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 14:07:26,311 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean named 'myFactory' that could not be found.
+
+
+Action:
+
+Consider defining a bean named 'myFactory' in your configuration.
+
+2020-05-08 14:08:59,972 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 11492 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 14:08:59,974 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 14:08:59,975 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 14:09:00,898 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean named 'myFactory' that could not be found.
+
+
+Action:
+
+Consider defining a bean named 'myFactory' in your configuration.
+
+2020-05-08 14:10:04,552 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 244 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 14:10:04,554 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 14:10:04,555 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 14:10:05,476 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'receiver' defined in file [C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes\com\test\jmsqpid\Receiver.class]: Initialization of bean failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'cachingConnectionFactory' is expected to be of type 'org.springframework.jms.config.JmsListenerContainerFactory' but was actually of type 'org.springframework.jms.connection.CachingConnectionFactory'
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:895)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.refresh(ReactiveWebServerApplicationContext.java:66)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.test.jmsqpid.JmsQpidApplication.main(JmsQpidApplication.java:42)
+Caused by: org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'cachingConnectionFactory' is expected to be of type 'org.springframework.jms.config.JmsListenerContainerFactory' but was actually of type 'org.springframework.jms.connection.CachingConnectionFactory'
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:395)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.processJmsListener(JmsListenerAnnotationBeanPostProcessor.java:295)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.lambda$null$1(JmsListenerAnnotationBeanPostProcessor.java:249)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.lambda$postProcessAfterInitialization$2(JmsListenerAnnotationBeanPostProcessor.java:249)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.postProcessAfterInitialization(JmsListenerAnnotationBeanPostProcessor.java:248)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsAfterInitialization(AbstractAutowireCapableBeanFactory.java:431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:595)
+	... 15 common frames omitted
+2020-05-08 14:10:48,288 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 3328 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 14:10:48,291 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 14:10:48,292 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 14:10:49,176 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'receiver' defined in file [C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes\com\test\jmsqpid\Receiver.class]: Initialization of bean failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'qpidConnectionFactory' is expected to be of type 'org.springframework.jms.config.JmsListenerContainerFactory' but was actually of type 'org.apache.qpid.jms.JmsConnectionFactory'
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:895)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.refresh(ReactiveWebServerApplicationContext.java:66)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.test.jmsqpid.JmsQpidApplication.main(JmsQpidApplication.java:42)
+Caused by: org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'qpidConnectionFactory' is expected to be of type 'org.springframework.jms.config.JmsListenerContainerFactory' but was actually of type 'org.apache.qpid.jms.JmsConnectionFactory'
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:395)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.processJmsListener(JmsListenerAnnotationBeanPostProcessor.java:295)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.lambda$null$1(JmsListenerAnnotationBeanPostProcessor.java:249)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.lambda$postProcessAfterInitialization$2(JmsListenerAnnotationBeanPostProcessor.java:249)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.postProcessAfterInitialization(JmsListenerAnnotationBeanPostProcessor.java:248)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsAfterInitialization(AbstractAutowireCapableBeanFactory.java:431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:595)
+	... 15 common frames omitted
+2020-05-08 14:12:50,543 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 2324 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 14:12:50,545 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 14:12:50,546 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 14:12:52,399 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.295 seconds (JVM running for 2.723)
+2020-05-08 14:12:52,557 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 14:12:52,587 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:2cdae4e9-e56b-44d6-9e7b-2a5901081724:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 14:59:23,797 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 4528 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 14:59:23,804 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 14:59:23,804 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 14:59:24,263 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'receiver', defined in class path resource [com/test/jmsqpid/JmsConfigurer.class], could not be registered. A bean with that name has already been defined in file [C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes\com\test\jmsqpid\Receiver.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
+2020-05-08 15:00:20,557 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 18340 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 15:00:20,560 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 15:00:20,561 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 15:00:21,501 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jmsConfigurer': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'msg.queue' in value "${msg.queue}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:405)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:895)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.refresh(ReactiveWebServerApplicationContext.java:66)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.test.jmsqpid.JmsQpidApplication.main(JmsQpidApplication.java:42)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'msg.queue' in value "${msg.queue}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:178)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:236)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:912)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1247)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1226)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	... 17 common frames omitted
+2020-05-08 15:03:22,917 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 9332 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 15:03:22,919 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 15:03:22,919 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 15:03:24,674 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:03:24,703 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:ef9bfe35-3641-4481-86d3-ae6ab2127d59:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:03:25,073 INFO com.test.jmsqpid.Receiver [JmsSession [ID:ef9bfe35-3641-4481-86d3-ae6ab2127d59:1:1] delivery dispatcher] Received message <{"to":"info@example.com","body":"Hello"}>
+2020-05-08 15:03:25,110 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.646 seconds (JVM running for 3.125)
+2020-05-08 15:03:25,127 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:03:25,138 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:98ae0ef0-4288-4835-990d-e6f63b4144fa:2 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:03:25,194 INFO com.test.jmsqpid.Receiver [JmsSession [ID:ef9bfe35-3641-4481-86d3-ae6ab2127d59:1:1] delivery dispatcher] Received message <{"to":"info@example.com","body":"Hello"}>
+2020-05-08 15:07:50,912 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 18580 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 15:07:50,915 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 15:07:50,915 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 15:07:51,963 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of method adapter in com.test.jmsqpid.JmsConfigurer required a bean of type 'com.test.jmsqpid.Receiver' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.test.jmsqpid.Receiver' in your configuration.
+
+2020-05-08 15:08:13,035 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 14720 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 15:08:13,038 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 15:08:13,039 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 15:08:14,738 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:08:14,765 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:8f50c11c-8a24-45f3-b8b0-eb8872c30df0:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:08:15,193 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.583 seconds (JVM running for 2.998)
+2020-05-08 15:08:15,211 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:08:15,221 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:ef3d918b-8fd8-4f6b-bc64-2fac8b6a1c59:2 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:09:02,074 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 3176 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 15:09:02,078 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 15:09:02,085 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 15:09:03,756 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:09:03,783 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:a30c6576-00b0-49d2-8bd8-8d404a2298bb:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:09:04,204 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.544 seconds (JVM running for 2.978)
+2020-05-08 15:09:04,222 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:09:04,233 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:c6af4b10-c139-4309-823c-6ce6ff2bddcb:2 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:09:55,247 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 17384 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 15:09:55,250 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 15:09:55,251 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 15:09:56,926 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:09:56,954 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:38be782f-5c35-4a5f-b89c-d324c0816cf7:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:09:57,343 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.533 seconds (JVM running for 2.984)
+2020-05-08 15:09:57,360 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:09:57,371 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:d5dfd3de-0774-4659-8b42-6277f0155fe2:2 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:09:57,435 INFO com.test.jmsqpid.Receiver [JmsSession [ID:38be782f-5c35-4a5f-b89c-d324c0816cf7:1:1] delivery dispatcher] Received message <{"to":"info@example.com","body":"Hello"}>
+2020-05-08 15:45:27,822 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 14092 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 15:45:27,830 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 15:45:27,830 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 15:45:29,908 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:45:29,936 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:85413439-990b-4154-acb7-0d18733d5d36:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:45:29,992 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.571 seconds (JVM running for 3.017)
+2020-05-08 15:45:30,008 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:45:30,017 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:e9ab4117-8e86-4dd4-a46e-7e03aab37b28:2 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:46:19,009 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 18824 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 15:46:19,011 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 15:46:19,012 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 15:46:19,924 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'EMailMessageListener' defined in file [C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes\com\test\jmsqpid\EMailMessageListener.class]: Initialization of bean failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'qpidConnectionFactory' is expected to be of type 'org.springframework.jms.config.JmsListenerContainerFactory' but was actually of type 'org.apache.qpid.jms.JmsConnectionFactory'
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:895)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.refresh(ReactiveWebServerApplicationContext.java:66)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.test.jmsqpid.JmsQpidApplication.main(JmsQpidApplication.java:42)
+Caused by: org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'qpidConnectionFactory' is expected to be of type 'org.springframework.jms.config.JmsListenerContainerFactory' but was actually of type 'org.apache.qpid.jms.JmsConnectionFactory'
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:395)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.processJmsListener(JmsListenerAnnotationBeanPostProcessor.java:295)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.lambda$null$1(JmsListenerAnnotationBeanPostProcessor.java:249)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.lambda$postProcessAfterInitialization$2(JmsListenerAnnotationBeanPostProcessor.java:249)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.springframework.jms.annotation.JmsListenerAnnotationBeanPostProcessor.postProcessAfterInitialization(JmsListenerAnnotationBeanPostProcessor.java:248)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsAfterInitialization(AbstractAutowireCapableBeanFactory.java:431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:595)
+	... 15 common frames omitted
+2020-05-08 15:52:12,856 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 15960 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 15:52:12,859 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 15:52:12,860 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 15:52:14,943 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:52:14,970 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:4f668d5d-dc72-49bf-8d31-507fdaef46e3:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:52:15,025 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.572 seconds (JVM running for 3.025)
+2020-05-08 15:52:15,042 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:52:15,053 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:f8dd37e2-9b67-4fa8-985e-b50ffe077ef5:2 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:57:42,562 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 14812 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 15:57:42,566 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 15:57:42,567 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 15:57:44,596 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:57:44,626 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:17dd90cb-3f0d-40e2-8272-b65fa45542d9:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 15:57:44,676 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.586 seconds (JVM running for 3.014)
+2020-05-08 15:57:44,693 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-ANONYMOUS
+2020-05-08 15:57:44,701 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:a3854a39-52db-481b-9efa-072e85208104:2 connected to remote Broker: amqp://localhost:5672
+2020-05-08 16:04:39,452 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 20204 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 16:04:39,455 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 16:04:39,456 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 16:04:41,470 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 16:04:41,499 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:63c2dfba-c338-4b54-81dc-a1bf3233ea80:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 16:04:41,548 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.596 seconds (JVM running for 3.019)
+2020-05-08 16:04:41,564 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 16:04:41,572 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:0b54c8fa-a97e-4df4-a3bc-1f28cf7a4520:2 connected to remote Broker: amqp://localhost:5672
+2020-05-08 16:05:19,553 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 18736 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 16:05:19,560 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 16:05:19,561 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 16:05:21,584 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 16:05:21,611 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:d9c59f99-c959-4470-b5e4-39e8f1b78ecb:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 16:05:21,660 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.551 seconds (JVM running for 3.029)
+2020-05-08 16:05:21,675 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 16:05:21,684 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:8b1c1795-bdb2-4c74-b2a8-52ea08d7ff4a:2 connected to remote Broker: amqp://localhost:5672
+2020-05-08 16:06:01,107 ERROR org.apache.qpid.jms.JmsConnection [DefaultMessageListenerContainer-3] Failed to connect to remote at: amqp://localhost:5672
+2020-05-08 16:06:01,109 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer [DefaultMessageListenerContainer-3] Could not refresh JMS Connection for destination 'mailbox' - retrying using FixedBackOff{interval=5000, currentAttempts=0, maxAttempts=unlimited}. Cause: The JMS connection has failed: Transport connection remotely closed.
+2020-05-08 16:06:08,124 ERROR org.apache.qpid.jms.JmsConnection [DefaultMessageListenerContainer-3] Failed to connect to remote at: amqp://localhost:5672
+2020-05-08 16:06:08,127 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer [DefaultMessageListenerContainer-3] Could not refresh JMS Connection for destination 'mailbox' - retrying using FixedBackOff{interval=5000, currentAttempts=1, maxAttempts=unlimited}. Cause: Connection refused: no further information: localhost/127.0.0.1:5672
+2020-05-08 16:06:15,135 ERROR org.apache.qpid.jms.JmsConnection [DefaultMessageListenerContainer-3] Failed to connect to remote at: amqp://localhost:5672
+2020-05-08 16:06:15,137 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer [DefaultMessageListenerContainer-3] Could not refresh JMS Connection for destination 'mailbox' - retrying using FixedBackOff{interval=5000, currentAttempts=2, maxAttempts=unlimited}. Cause: Connection refused: no further information: localhost/127.0.0.1:5672
+2020-05-08 16:06:22,141 ERROR org.apache.qpid.jms.JmsConnection [DefaultMessageListenerContainer-3] Failed to connect to remote at: amqp://localhost:5672
+2020-05-08 16:06:22,142 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer [DefaultMessageListenerContainer-3] Could not refresh JMS Connection for destination 'mailbox' - retrying using FixedBackOff{interval=5000, currentAttempts=3, maxAttempts=unlimited}. Cause: Connection refused: no further information: localhost/127.0.0.1:5672
+2020-05-08 16:06:29,151 ERROR org.apache.qpid.jms.JmsConnection [DefaultMessageListenerContainer-3] Failed to connect to remote at: amqp://localhost:5672
+2020-05-08 16:06:29,153 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer [DefaultMessageListenerContainer-3] Could not refresh JMS Connection for destination 'mailbox' - retrying using FixedBackOff{interval=5000, currentAttempts=4, maxAttempts=unlimited}. Cause: Connection refused: no further information: localhost/127.0.0.1:5672
+2020-05-08 16:06:36,161 ERROR org.apache.qpid.jms.JmsConnection [DefaultMessageListenerContainer-3] Failed to connect to remote at: amqp://localhost:5672
+2020-05-08 16:06:36,163 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer [DefaultMessageListenerContainer-3] Could not refresh JMS Connection for destination 'mailbox' - retrying using FixedBackOff{interval=5000, currentAttempts=5, maxAttempts=unlimited}. Cause: Connection refused: no further information: localhost/127.0.0.1:5672
+2020-05-08 16:06:41,266 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(9):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 16:06:41,285 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(9):[amqp://localhost:5672]] Connection ID:8e55ede6-f4f1-467b-97eb-a629b8b347ff:9 connected to remote Broker: amqp://localhost:5672
+2020-05-08 16:06:59,379 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 15412 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 16:06:59,381 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 16:06:59,382 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 16:07:01,662 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 16:07:01,684 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:93a48b89-e8d6-4be6-a36a-303507488f9e:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 16:07:01,734 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.83 seconds (JVM running for 3.281)
+2020-05-08 16:07:01,750 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 16:07:01,756 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:da0794fd-5337-4f24-a549-936d113d58b2:2 connected to remote Broker: amqp://localhost:5672
+2020-05-08 16:17:40,930 INFO com.test.jmsqpid.JmsQpidApplication [main] Starting JmsQpidApplication on DESKTOP-O99CPL8 with PID 17100 (C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid\target\classes started by Gurdial Singh in C:\Users\Gurdial Singh\Documents\Code\learning\jms-qpid)
+2020-05-08 16:17:40,932 DEBUG com.test.jmsqpid.JmsQpidApplication [main] Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-05-08 16:17:40,933 INFO com.test.jmsqpid.JmsQpidApplication [main] No active profile set, falling back to default profiles: default
+2020-05-08 16:17:42,993 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(1):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 16:17:43,015 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(1):[amqp://localhost:5672]] Connection ID:699553ca-7363-4ca8-b61d-bfc8c2a469f9:1 connected to remote Broker: amqp://localhost:5672
+2020-05-08 16:17:43,067 INFO com.test.jmsqpid.JmsQpidApplication [main] Started JmsQpidApplication in 2.581 seconds (JVM running for 3.005)
+2020-05-08 16:17:43,082 INFO org.apache.qpid.jms.sasl.SaslMechanismFinder [AmqpProvider :(2):[amqp://localhost:5672]] Best match for SASL auth was: SASL-PLAIN
+2020-05-08 16:17:43,085 INFO org.apache.qpid.jms.JmsConnection [AmqpProvider :(2):[amqp://localhost:5672]] Connection ID:4fc31814-edce-49e2-be20-9b1fd9742a2b:2 connected to remote Broker: amqp://localhost:5672
